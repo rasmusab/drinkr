@@ -63,8 +63,8 @@ shinyUI(fluidPage(
       ), 
       fluidRow(
         column(12, offset = 0, 
-          helpText(br(), br(), HTML('Coded by Rasmus Bååth (2014), licenced under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative Commons Attribution 4.0 International License</a>.'),  
-                   HTML("Find more info about this app <a href='http://www.sumsar.net'>on my blog</a>."), br(), 
+          helpText(br(), br(), HTML('Coded by Rasmus Bååth (2014), licenced under the <a rel="license" href="https://github.com/rasmusab/drinkr/blob/master/LICENCE.txt">MIT License</a>.'),  
+                   HTML("Find more info about this app <a href='http://www.sumsar.net/blog/2014/07/estimate-your-bac-using-drinkr/'>on my blog</a>."), br(), 
                    HTML("This app is intended for entertainment purposes and might be <b>extremely missleading</b>. Never use it for any serious purpose, please!"))    
         )
       )
