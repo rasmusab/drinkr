@@ -1,7 +1,7 @@
 library(shiny)
 
 shinyUI(fluidPage(
-  titlePanel("drinkR: Estimate your Blood Alcohol Content (BAC)"),
+  titlePanel("drinkR: Estimate your Blood Alcohol Concentration (BAC)"),
   
   fluidRow(
     column(3,
